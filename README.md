@@ -7,7 +7,7 @@
         </tr> 
         <tr>
             <td>
-                <img alt="bug" src="https://joaopauloaramuni.github.io/image/bugbounty3.jpg?raw=true"/>
+                <img alt="bug" width="1600px" height="450px" src="https://joaopauloaramuni.github.io/image/bugbounty3.jpg?raw=true"/>
             </td>
         </tr>
         <tr>
