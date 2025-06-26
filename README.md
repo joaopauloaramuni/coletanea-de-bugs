@@ -1,4 +1,4 @@
-# coletanea-de-bugs
+-----
 
 <div align="center">
     <table>
